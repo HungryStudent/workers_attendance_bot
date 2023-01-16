@@ -1,0 +1,5 @@
+venv
+.idea
+config.py
+utils/database.db
+creds.json
